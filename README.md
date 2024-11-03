@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JahirWH
-- 👀 I’m interested in learn more
-- 🌱 I’m currently learning C++
-- I would like to create what is not yet thought
+- 👋 Hola soy @JahirWH
+- 🌱 Actualmente estoy aprendiento Avala
+- Me gusta contribuir
 
 <!---
 JahirWH/JahirWH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
