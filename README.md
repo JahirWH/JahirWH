@@ -1,5 +1,5 @@
 - 👋 Hola soy @JahirWH
-- 🌱 Actualmente estoy aprendiento Avala
+- 🌱 Actualmente estoy aprendiento vala
 - Me gusta contribuir
 
 <!---
