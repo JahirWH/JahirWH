@@ -1,6 +1,7 @@
-- 👋 Hola soy @JahirWH
-- 🌱 Siempre estoy creando algo
-- Me gusta contribuir
+### Hola!!!! soy JahirWH  
+- 💻 Profesional: "Sé lo que hago" 
+- 🧙 Mago: borro codigo sin querer
+- ☕ Soy adicto al te 
 
 <!---
 JahirWH/JahirWH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
