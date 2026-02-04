@@ -1,5 +1,5 @@
 ### Hi !!!! I'm jahir
--  Professional: "I know what I'm doing"  
+
 -  My web [portafolio.icu](https://www.portafolio.icu/)  
 - Pull requests are welcome!
  
