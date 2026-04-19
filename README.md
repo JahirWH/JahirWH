@@ -8,4 +8,4 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=JahirWH&theme=darkhub&no-frame=true&margin-w=15)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahirWH&show_icons=true&theme=radical)
